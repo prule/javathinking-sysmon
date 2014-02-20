@@ -2,15 +2,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.javathinking.jtsysmon</groupId>
-    <artifactId>javathinking-sysmon-core</artifactId>
+    <artifactId>javathinking-sysmon</artifactId>
     <packaging>jar</packaging>
     <version>0.2-SNAPSHOT</version>
-    <name>javathinking-sysmon-core</name>
+    <name>javathinking-sysmon</name>
     <url>http://maven.apache.org</url>
     <scm>
-        <connection>scm:svn:http://javathinking.googlecode.com/svn/trunk/javathinking-sysmon/</connection>
-        <developerConnection>scm:svn:https://javathinking.googlecode.com/svn/trunk/javathinking-sysmon</developerConnection>
-        <url>scm:svn:https://javathinking.googlecode.com/svn/trunk/javathinking-sysmon</url>
+        <connection>scm:git:ssh://git@github.com:prule/javathinking-sysmon.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:prule/javathinking-sysmon.git</developerConnection>
+        <url>https://github.com/prule/javathinking-sysmon.git</url>
     </scm>
 
     <distributionManagement>
